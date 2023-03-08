@@ -1,5 +1,13 @@
 {
-    "user" : [
-        
-    ]
+  "user": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "Therock@96",
+      "email": "admin@admin",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    }
+  ]
 }
